@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on  <br>Learning web development and building small projects  <br><br>I’m looking for help with  <br>Improving my JavaScript skills  <br><br>I’m currently learning  <br>HTML, CSS, and JavaScript, working toward becoming a MERN stack developer  <br><br>Ask me about  <br>HTML, CSS, and my learning journey  <br><br>Fun fact  <br>I’m focused on becoming a full-stack developer through consistent daily practice
+I’m currently working on  <br>Learning web development and building small projects  <br><br>I’m looking for help with  <br>Improving my JavaScript skills  <br><br>I’m currently learning  <br>HTML, CSS, and JavaScript, working toward becoming a MERN stack developer  <br><br>Ask me about  <br>HTML, CSS, and my learning journey  <br><br>Fun fact  <br>I’m focused on becoming a full-stack developer through consistent daily practice <br>
+Also i am from Tanzania in Africa
 
 
 ## 🌐 Socials:
